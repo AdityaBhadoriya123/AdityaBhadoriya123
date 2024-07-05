@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya-Bhadoriya
 - a Java Nerd passionate about full-stack and cloud 💻
 - 📫 adityabhadoriya123@gmail.com ...
-- 😄 Mr 
+- 😄 Mr(He /Him )
 
 <!---
 AdityaBhadoriya123/AdityaBhadoriya123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
